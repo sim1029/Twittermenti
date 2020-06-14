@@ -1,5 +1,5 @@
 
-![Twittermenti Logo](Documentation/AppBreweryBanner.png)
+![Twittermenti Logo](Documentation/core-ml-128x128_2x.png)
 
 #  Twittermenti
 
